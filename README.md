@@ -1,4 +1,3 @@
-## Hi there 👋
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
 <div id="header" align="center">
