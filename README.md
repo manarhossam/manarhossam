@@ -1,7 +1,7 @@
 ## Hi there 👋
-
-<!--
-**manarhossam/manarhossam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> Hi, I'm Manar Hossam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"></h1>
+<h3 align="center">I'm a passionate Software Developer </h3>
+<div align="center">
 
 Here are some ideas to get you started:
 
