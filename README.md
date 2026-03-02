@@ -16,10 +16,9 @@
 ### 💫 About Me
 
 - 🎓 I'm computer science graduate.
-- 🔭 I’m currently working on Web Development and DSA.
-- 🌱 I’m currently learning DevOps.
-- 👯 I’m looking to collaborate with open source enthusiasts and developers.
-- 🥅 2025 Goals: Learn DevOps, Nextjs And strengthen DSA.
+- 🔭 I’m currently working on Data Analyst and BI developer
+- 🌱 I’m currently learning .net
+- 🥅 2026 Goals: Learn .net and web deveploment
 
 <br>
 
