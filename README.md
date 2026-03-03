@@ -14,10 +14,9 @@
 
 ### 💫 About Me
 
-- 🎓 I'm computer science graduate.
+- 🎓 I'm computer science graduate major Artificial Intelligence
 - 🔭 I’m currently working on Data Analyst and BI developer
-- 🌱 I’m currently learning .net
-- 🥅 2026 Goals: Learn .net and web deveploment
-
+- 🌱 I’m currently improving my problem-solving skills and learning web development and backend to become a full-stack developer.
+- 🥅 2026 Goals: Become proficient in .NET and full-stack web development.
 <br>
 
